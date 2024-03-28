@@ -1,0 +1,25 @@
+.banner{
+    background: linear-gradient(180deg, #111111 0%, rgba(17, 17, 17, 0) 100%),url(img/Group\ 22.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+     
+}
+.bb{
+    background: linear-gradient(180deg, #111111 0%, rgba(17, 17, 17, 0) 100%),url(img/Group\ 23.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+     
+}
+
+.aa{
+    background: linear-gradient(180deg, #111111 0%, rgba(17, 17, 17, 0) 100%),url(img/Group\ 40.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 600px;
+     
+}
+
